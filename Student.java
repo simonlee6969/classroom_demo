@@ -41,4 +41,7 @@ public class Student {
     void myTest(){
         
     }
+    int countAll(){
+        return 0
+    }
 }
